@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.sqlite3
+db.sqlite3
+
+# Static and media files
+/staticfiles/
+/media/
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Editor-specific
+.idea/
+.vscode/
+*.swp
+
+# macOS
+.DS_Store
+
+# Node modules (if using npm or yarn)
+node_modules/
+
+# Environment variables
+.env
+
+# Coverage reports
+htmlcov/
+*.cover
+.coverage
+.cache
+
+# Migrations
+*/migrations/*
+
+# Celery
+celerybeat-schedule
