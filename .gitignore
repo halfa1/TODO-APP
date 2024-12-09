@@ -18,7 +18,6 @@ db.sqlite3
 # Static and media files
 /staticfiles/
 /media/
-*.png
 *.jpg
 *.jpeg
 *.gif
